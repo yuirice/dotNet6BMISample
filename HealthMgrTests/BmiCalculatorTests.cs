@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HealthMgr.Tests
+namespace HealthMgr.Tests  //test
 {
     [TestClass()]
     public class BmiCalculatorTests

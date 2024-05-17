@@ -1,6 +1,6 @@
 ﻿namespace HealthMgr
 {
-    public class BmiCalculator
+    public class BmiCalculator //
     {
         public int Weight { get; set; }
         public int Height { get; set; }
